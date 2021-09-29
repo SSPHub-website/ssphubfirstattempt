@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: Le projet utilitR est une documentation sur l’usage du logiciel , née à l’Insee, destinée à tout utilisateur intéressé par la manipulation de données sans pré-requis de niveau.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
