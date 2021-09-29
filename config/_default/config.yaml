@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SSPHub # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://ssphub.netlify.app/' # Website URL
+copyright: '&copy; Insee {year}'
 
 ############################
 ## LANGUAGE
