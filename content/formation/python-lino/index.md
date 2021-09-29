@@ -1,6 +1,6 @@
 ---
 title: Python pour les data-scientists et économistes
-summary: Ce site web rend public le contenu du cours de deuxième année (Master 1) de l’ENSAE: Python pour les data-scientists et économistes 🐍.
+summary: Ce site web rend public le contenu du cours de deuxième année (Master 1) de l’ENSAE: Python pour les data-scientists et économistes.
 tags:
 - Python
 date: "2016-04-27T00:00:00Z"
