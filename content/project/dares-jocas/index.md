@@ -1,8 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Jocas
+summary: Collecte et analyse d’offres d’emploi
 tags:
-- Deep Learning
+- Webscrapping
+- Classification Automatique
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
