@@ -31,7 +31,11 @@ content:
     tag: Deep Learning
   - name: Appariement
     tag: Appariement
-
+  - name: Webscrapping
+    tag: Webscrapping    
+  - name: Classification
+    tag: Classification
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
