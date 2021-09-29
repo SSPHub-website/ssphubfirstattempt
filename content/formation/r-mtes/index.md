@@ -1,12 +1,12 @@
 ---
-title: Python pour les data-scientists et économistes 
-summary: An example of using the in-built project page.
+title: Formations R aux MTES & MCTRCT
+summary: Faire du logiciel R une nouvelle opportunité dans le traitement des données
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://linogaliana-teaching.netlify.app/"
+external_link: "https://mtes-mct.github.io/parcours-r/"
 
 image:
   caption: Photo by rawpixel on Unsplash
