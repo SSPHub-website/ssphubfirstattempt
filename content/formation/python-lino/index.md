@@ -1,6 +1,5 @@
 ---
-title: 
-Python pour les data-scientists et économistes 
+title: Python pour les data-scientists et économistes 
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
