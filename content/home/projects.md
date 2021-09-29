@@ -10,7 +10,7 @@ headless: true
 weight: 65
 
 title: Projects
-subtitle: ''
+subtitle: 'Voici les projets des datascientists du SSP'
 
 content:
   # Page type to display. E.g. project.
