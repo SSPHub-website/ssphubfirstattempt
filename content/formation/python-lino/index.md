@@ -1,12 +1,12 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Python pour les data-scientists et économistes
+summary: Ce site web rend public le contenu du cours de deuxième année (Master 1) de l’ENSAE: Python pour les data-scientists et économistes 🐍.
 tags:
-- Deep Learning
+- Python
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://linogaliana-teaching.netlify.app/"
 
 image:
   caption: Photo by rawpixel on Unsplash
