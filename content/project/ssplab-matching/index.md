@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Comparaison des méthodes d'appariement et apport du machine learning
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
