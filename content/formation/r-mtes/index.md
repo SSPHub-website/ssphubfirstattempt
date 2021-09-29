@@ -2,7 +2,7 @@
 title: Formations R aux MTES & MCTRCT
 summary: Faire du logiciel R une nouvelle opportunité dans le traitement des données
 tags:
-- Deep Learning
+- R
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
