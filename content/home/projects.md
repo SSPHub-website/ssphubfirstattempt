@@ -35,6 +35,8 @@ content:
     tag: Webscrapping    
   - name: Classification
     tag: Classification
+  - name: Nouvelle source
+    tag: Nouvelle source 
     
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
