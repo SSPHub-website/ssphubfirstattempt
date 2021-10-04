@@ -1,12 +1,13 @@
 ---
-title: Python pour les data-scientists et économistes 
-summary: An example of using the in-built project page.
+title: Pourquoi utiliser git/la gestion de version ? 
+summary: Exemple d'application avec R
 tags:
-- Python
+- Git
+- R
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://linogaliana-teaching.netlify.app/"
+external_link: "https://linogaliana.gitlab.io/collaboratif/git.html#pourquoi-utiliser-la-gestion-de-version"
 
 image:
   caption: Photo by rawpixel on Unsplash
