@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 L’enjeu de l’expérimentation est d’attribuer un domaine d’activité aux associations pour améliorer le tirage de l’échantillon de l’enquête associations. En effet, une partie des associations est répertoriée dans Sirène (employeuses, subventionnées…) mais 50 % d’entre elles ont un code APE 9499Z ne permettant pas de déterminer leur domaine d’activité de façon précise. Par ailleurs, les associations loi 1901 sont enregistrées dans le répertoire national des associations (RNA), géré par le ministère de l’intérieur. Dans ce répertoire, un champ "objet social" rempli en clair décrit rapidement les activités de chaque association. L’expérimentation vise à analyser textuellement ce champ pour en prédire l'activité. L'enquête 2014 appariée au RNA sert de jeu d'apprentissage et de jeu de tests. 
