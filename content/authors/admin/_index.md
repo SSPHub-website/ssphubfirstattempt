@@ -69,6 +69,6 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Le SSP Hub est le réseau des data scientists de l'INSEE et des Services Statistiques Ministériels. Ce site recense les travaux menés par les agents du réseaux, afin de permettre un meilleur échange entre data scientists.
+Le SSP Hub est le réseau des data scientists de l'INSEE et des Services Statistiques Ministériels. Ce site recense les travaux menés par les agents du réseaux ainsi que les ressources utiles à la bonne conduite des projets de data science.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
