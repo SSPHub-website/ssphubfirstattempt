@@ -3,7 +3,7 @@ title: Classification des données de caisse dans des nomenclatures
 summary: An example of using the in-built project page.
 tags:
 - Nouvelle source
-- Codification automatique
+- Codification
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
