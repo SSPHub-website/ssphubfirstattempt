@@ -1,5 +1,5 @@
 ---
-title: Evènements passés et à venir
+title: Evenements passes et a venir
 cms_exclude: true
 
 # View.
