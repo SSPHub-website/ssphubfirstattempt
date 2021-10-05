@@ -1,13 +1,13 @@
 ---
 title: Pourquoi utiliser git/la gestion de version ? 
-summary: Exemple d'application avec R
+summary: Exemple d'application avec Python
 tags:
 - Git
-- R
+- Python
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://linogaliana.gitlab.io/collaboratif/git.html#pourquoi-utiliser-la-gestion-de-version"
+external_link: "https://linogaliana-teaching.netlify.app/course/git/"
 
 image:
   caption: Photo by rawpixel on Unsplash
