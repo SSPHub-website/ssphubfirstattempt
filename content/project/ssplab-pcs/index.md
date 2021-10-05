@@ -1,6 +1,6 @@
 ---
 title: Codification automatique des professions dans la nomenclature PCS 2020
-summary: Estimation de modèles hédoniques pour améliorer la qualité statistique de l’indice des prix à la consommation
+summary: 
 tags:
 - Classification
 date: "2016-04-27T00:00:00Z"
