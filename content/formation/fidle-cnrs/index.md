@@ -1,13 +1,13 @@
 ---
-title: Machine learning in Python with scikit-learn
-summary: Une formation de l'INRIA
+title: FIDLE - Formation Introduction au Deep Learning
+summary: Une formation du CNRS
 tags:
 - Python
 - Machine & Deep Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://inria.github.io/scikit-learn-mooc/"
+external_link: "https://gricad-gitlab.univ-grenoble-alpes.fr/talks/fidle/-/wikis/home"
 
 image:
   caption: Photo by rawpixel on Unsplash
