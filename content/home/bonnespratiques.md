@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Formations
-subtitle: ''
+title: Bonnes Pratiques
+subtitle: 'Et packages utiles'
 
 content:
   # Page type to display. E.g. project.
-  page_type: formation
+  page_type: bonnespratiques
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -27,16 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Python
-    tag: Python
-  - name: R
-    tag: R
-  - name: Git
-    tag: Git    
+  - name: DataViz Spatiale
+    tag: Geodataviz
+  - name: Guide de codage
+    tag: codestyle 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '3'
 
   # Toggle between the various page layout types.
   #   1 = List
@@ -46,5 +44,5 @@ design:
   view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

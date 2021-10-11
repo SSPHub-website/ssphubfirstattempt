@@ -1,13 +1,12 @@
 ---
-title: Pourquoi utiliser git/la gestion de version ? 
-summary: Exemple d'application avec Python
+title: The Hitchhiker's guide to Python
+summary: Code style
 tags:
-- Git
-- Python
+- codestyle
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://linogaliana-teaching.netlify.app/course/git/"
+external_link: "https://docs.python-guide.org/writing/style/"
 
 image:
   caption: Photo by rawpixel on Unsplash

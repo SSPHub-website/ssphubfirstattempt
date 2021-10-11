@@ -1,13 +1,12 @@
 ---
-title: Machine learning in Python with scikit-learn
-summary: Une formation de l'INRIA
+title: Gérer des données massives avec Spark
+summary: Parcours de formation au calcul distribué avec Spark pour du traitement de données à grande échelle.
 tags:
-- Python
-- Machine Learning
+- Big Data
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://inria.github.io/scikit-learn-mooc/"
+external_link: "https://www.sspcloud.fr/documentation?search=&path=%5B%221.%20Apprendre%20Spark%22%5D"
 
 image:
   caption: Photo by rawpixel on Unsplash

@@ -32,7 +32,14 @@ content:
   - name: R
     tag: R
   - name: Git
-    tag: Git    
+    tag: Git
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Analyse Textuelle
+    tag: NLP
+  - name: Données Massives
+    tag: Big Data
+    
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

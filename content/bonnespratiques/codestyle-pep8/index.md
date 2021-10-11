@@ -1,23 +1,18 @@
 ---
-title: Pourquoi utiliser git/la gestion de version ? 
-summary: Exemple d'application avec R
+title: PEP 8 — the Style Guide for Python Code
+summary:
 tags:
-- Git
-- R
+- codestyle
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://linogaliana.gitlab.io/collaboratif/git.html#pourquoi-utiliser-la-gestion-de-version"
+external_link: "https://docs.python-guide.org/writing/style/"
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

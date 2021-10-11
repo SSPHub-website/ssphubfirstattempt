@@ -1,13 +1,12 @@
 ---
-title: Machine learning in Python with scikit-learn
-summary: Une formation de l'INRIA
+title: Initiation à l'analyse textuelle
+summary: Accessible sur le SSP Cloud
 tags:
-- Python
-- Machine Learning
+- NLP
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://inria.github.io/scikit-learn-mooc/"
+external_link: "https://www.sspcloud.fr/documentation?search=&path=%5B%22Analyse%20Textuelle%22%5D"
 
 image:
   caption: Photo by rawpixel on Unsplash
