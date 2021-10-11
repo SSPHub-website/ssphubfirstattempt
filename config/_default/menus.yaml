@@ -7,15 +7,15 @@ main:
   - name: Le Réseau
     url: '#about'
     weight: 10
- # - name: Posts
- #   url: '#posts'
- #   weight: 20
   - name: Projets
     url: '#projects'
-    weight: 30
+    weight: 20
+  - name: Bonnes Pratiques
+    url: '#bonnespratiques'
+    weight: 30  
   - name: Formations
     url: '#formations'
-    weight: 40   
+    weight: 40    
   - name: Evènements
     url: '#talks'
     weight: 50
