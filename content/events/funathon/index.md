@@ -32,7 +32,7 @@ links:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 url_code: "https://git.lab.sspcloud.fr/ssplab/2021-06-funathon"
-url_pdf: "static/uploads/lettre big data n11.pdf"
+url_pdf: "uploads/lettre big data n11.pdf"
 url_slides: ""
 url_video: ""
 
