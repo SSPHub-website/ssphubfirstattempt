@@ -2,7 +2,7 @@
 title: PEP 8 — the Style Guide for Python Code
 summary:
 tags:
-- codestyle
+- Python
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
