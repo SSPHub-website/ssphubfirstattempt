@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Data Vizualisation
+    tag: Dataviz   
   - name: Appariement
     tag: Appariement
   - name: Webscrapping
