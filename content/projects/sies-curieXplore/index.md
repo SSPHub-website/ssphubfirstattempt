@@ -16,7 +16,7 @@ image:
 links:
 - icon: mail
   icon_pack: fab
-  name: Site Web
+  name:Site Web
   url: https://curiexplore.enseignementsup-recherche.gouv.fr/
 url_site: ""
 url_pdf: ""
