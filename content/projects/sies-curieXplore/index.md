@@ -18,7 +18,7 @@ links:
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://curiexplore.enseignementsup-recherche.gouv.fr/fiche/USA"
+url_site: "https://curiexplore.enseignementsup-recherche.gouv.fr/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -31,4 +31,4 @@ url_video: ""
 # slides: example
 ---
 
-plateforme d’aide à la caractérisation des profils nationaux en matière d’Enseignement supérieur et de recherche qui combine du contenu textuel collecté par nous auprès du réseau diplomatique français et des données issues de sources statistiques internationales (Unesco, banque mondiale, OCDE, Eurostat, …) ou privées (classements d’établissements d’ES comme Shanghai, UMULTIRANK ou THE) moissonnées automatiquement régulièrement
+Plateforme d’aide à la caractérisation des profils nationaux en matière d’Enseignement supérieur et de recherche qui combine du contenu textuel collecté par nous auprès du réseau diplomatique français et des données issues de sources statistiques internationales (Unesco, banque mondiale, OCDE, Eurostat, …) ou privées (classements d’établissements d’ES comme Shanghai, UMULTIRANK ou THE) moissonnées automatiquement régulièrement
