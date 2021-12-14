@@ -10,9 +10,6 @@ main:
   - name: Projets
     url: '#projects'
     weight: 20
-  - name: Bonnes Pratiques
-    url: '#bonnespratiques'
-    weight: 30  
   - name: Formations
     url: '#formations'
     weight: 40    
