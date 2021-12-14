@@ -14,7 +14,7 @@ subtitle: 'Des réseaux et initiatives supplémentaires de data science'
 
 content:
   # Page type to display. E.g. project.
-  page_type: projects
+  page_type: others
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
