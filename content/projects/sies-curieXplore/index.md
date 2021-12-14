@@ -14,11 +14,11 @@ image:
   focal_point: Smart
 
 links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
-url_site: "https://curiexplore.enseignementsup-recherche.gouv.fr/"
+- icon: mail
+  icon_pack: fab
+  name: Site Web
+  url: https://curiexplore.enseignementsup-recherche.gouv.fr/
+url_site: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
