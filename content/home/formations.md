@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Formations
+title: Formations & Bonnes Pratiques
 subtitle: ''
 
 content:
