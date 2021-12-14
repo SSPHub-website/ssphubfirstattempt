@@ -10,12 +10,15 @@ main:
   - name: Projets
     url: '#projects'
     weight: 20
-  - name: Formations
+  - name: Formations & Bonnes Pratiques
     url: '#formations'
-    weight: 40    
+    weight: 30    
   - name: Evènements
     url: '#talks'
-    weight: 50
+    weight: 40
+  - name: D'autres ressources utiles
+    url: '#others'
+    weight: 50    
   - name: Contact
     url: '#contact'
     weight: 60
