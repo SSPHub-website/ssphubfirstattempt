@@ -33,8 +33,8 @@ content:
     tag: R
   - name: Git
     tag: Git
-  - name: Machine Learning
-    tag: Machine Learning
+  - name: Machine & Deep Learning
+    tag: Machine & Deep Learning
   - name: Analyse Textuelle
     tag: NLP
   - name: Données Massives
