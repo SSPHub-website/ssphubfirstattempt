@@ -5,13 +5,13 @@ event: Funathon
 event_url: https://example.org
 
 summary: Se former aux techniques de la datascience avec des données AirBnb
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Des données comme s’il en pleuvait, riches, hétérogènes, imparfaites, prêtes à dévoiler leurs mystères. Des méthodes. Des langages. Des codes source. Des packages. Des mots qui claquent : datascience, dataviz, machine learning. Et, face à cela, des femmes et des hommes, statisticiens publics de leur état, prêts à gravir des montagnes. Mais comment faire ? Tous seuls, bardés d’enthousiasme, de MOOC et d’outils open source ? Que nenni : la datascience sera collective ou ne sera pas. L’échange de bonnes pratiques devient donc vital. Il restait à inventer des façons efficaces de travailler ensemble, de partager : bienvenue au Funathon."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2021-06-21T13:00:00Z"
+date_end: "2021-06-22T15:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -27,11 +27,11 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
-url_code: ""
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
+url_code: "https://git.lab.sspcloud.fr/ssplab/2021-06-funathon"
 url_pdf: ""
 url_slides: ""
 url_video: ""
