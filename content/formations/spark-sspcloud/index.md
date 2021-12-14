@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.sspcloud.fr/documentation?search=&path=%5B%221.%20Apprendre%20Spark%22%5D"
+external_link: "https://www.sspcloud.fr/documentation?search=&path=%5B%22Initiation%20%C3%A0%20Spark%22%5D"
 
 image:
   caption: Photo by rawpixel on Unsplash
