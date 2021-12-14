@@ -51,7 +51,7 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/SSPHub
+  link: https://github.com/SSPHub-website/ssphub
 #- icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
@@ -72,3 +72,5 @@ highlight_name: true
 Le SSP Hub est le réseau des data scientists de l'INSEE et des Services Statistiques Ministériels. Ce site recense les travaux menés par les agents du réseaux ainsi que les ressources utiles à la bonne conduite des projets de data science.
 
 {{< icon name="download" pack="fas" >}} Télécharger le {{< staticref "uploads/CRDC_SSPHUB.pdf" "newtab" >}}compte rendu de direction définissant la création du réseau des data scientists du SSP{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Les missions du réseau sont présentées dans {{< staticref "uploads/SSP Hub - A Manifesto.odt" "newtab" >}}son manifeste{{< /staticref >}}.
