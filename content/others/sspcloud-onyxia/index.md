@@ -1,13 +1,10 @@
 ---
-title: Jocas
-summary: Collecte et analyse d’offres d’emploi
-tags:
-- Webscrapping
-- Classification
+title: Onyxia - Datalab
+summary: Bienvenue sur le datalab - Travaillez avec Python ou R et disposez de la puissance dont vous avez besoin!
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://datalab.sspcloud.fr/home"
 
 image:
   caption:
