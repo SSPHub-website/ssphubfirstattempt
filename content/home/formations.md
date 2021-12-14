@@ -14,7 +14,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: formation
+  page_type: formations
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -33,8 +33,8 @@ content:
     tag: R
   - name: Git
     tag: Git
-  - name: Machine & Deep Learning
-    tag: Machine & Deep Learning
+  - name: Machine et Deep Learning
+    tag: Machine et Deep Learning
   - name: Analyse Textuelle
     tag: NLP
   - name: Données Massives
