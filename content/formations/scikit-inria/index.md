@@ -2,7 +2,6 @@
 title: Machine learning in Python with scikit-learn
 summary: Une formation de l'INRIA
 tags:
-- Python
 - Machine et Deep Learning
 date: "2016-04-27T00:00:00Z"
 
